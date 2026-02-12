@@ -1,0 +1,6 @@
+flask
+numpy
+transformers
+torch
+
+Add requirements
