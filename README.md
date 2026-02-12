@@ -66,3 +66,6 @@ Demo video: *add link here*
 CrisisCompass aims to reduce panic, speed rescue, and save lives.
 
 Technology should protect people when they need it most.
+## Preview
+
+![Preview](docs/preview.png)
